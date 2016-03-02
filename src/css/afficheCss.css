@@ -1,0 +1,174 @@
+@CHARSET "ISO-8859-1";
+html{
+	margin-left: 25%;
+	margin-right: 20%;
+	margin-top : 0;
+	margin-bottom : 0;
+	background: url(http://netdna.webdesignerdepot.com/uploads7/50-inspiring-animated-gifs/006.gif);
+	background-size:10;
+}
+
+body{
+    background : url(http://netdna.webdesignerdepot.com/uploads7/50-inspiring-animated-gifs/006.gif) fixed;
+    background-size: 5;
+    z-index: 10;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2{
+    display: inline;
+    position:relative;
+    text-align: center;
+    color: aqua;
+    background-color :#18C194 ;
+    opacity: 0.7;
+    z-index: 200;
+   
+}
+
+    .adresse{
+    display: block;
+    position: relative; 
+    top: 20%;
+    left: 0;
+    width : 30%;
+    height: auto;
+    margin-left :10%;
+    margin-top: 10%;
+    font-size: 20px;
+    text-align: justify;
+    color:  #D6EBF2;
+    background-color : #0B6F54;
+    z-index: 200;
+    opacity: 0.7;
+    }
+    
+#leo{
+     display: block;
+    position: fixed;
+    top: 60%;
+    right: 0;
+    margin: 0;
+    width: 20%;
+    height: 30%;
+    z-index: 500;
+    opacity: 0.9;
+}
+#messi{
+     display: block;
+    position: absolute;
+    top: 70%;
+    right: 0;
+    margin-top: 10px;
+    width: 20%;
+    height: 30%;
+    z-index: 500;
+    opacity: 0.9;
+}
+.img{
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 0;
+    width: 20%;
+    height: 30%;
+    z-index: 500;
+    opacity: 0.9;
+}
+
+
+
+caption{
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-top: 20px;
+     margin-bottom: 5px;
+    white-space: nowrap;
+    background-color : #0B6F54;
+    font-size: 32px;
+    color: #fff;
+    font-weight: bold;
+    opacity: 0.7;
+    z-index: 200;
+}
+
+center{
+    font-size: 24px;
+    font-weight: bolder;
+    color:#0B6F54 ;
+}
+
+#nonrelief{
+    white-space: nowrap;
+    position: fixed;
+    margin: 5px;
+    margin-top: 0;
+    top: 0;
+    left: 0;
+    width: 24%;
+    font-size: 24px;
+    color:  #fff;
+    background-color:#0B6F54 ;
+    opacity: 0.8;
+    z-index : 0;
+}
+
+table, tr, td{
+    border: 5px;
+    border-color: red;
+    border-spacing: 20px;
+    text-align: justify;
+    padding-top : 10px;
+    margin: auto;
+    background-color : #0B6F54; 
+}
+th{
+    position: relative;
+    white-space: nowrap;
+    padding: 10px;
+    border: 5px;
+    border-spacing: 20px;
+    text-align: center; 
+    background-color : lightgreen;
+    opacity: 0.8;
+    border-color: blue;
+    z-index: 200;
+}
+
+   .definition{
+     font-size: 16px;
+    color: aqua;
+    background-color : #0B6F54;
+     opacity: 0.8;
+    z-index: 200;
+    }
+
+    .annee{
+    text-align : center;
+    color : white;
+    font-size: 18px;
+    opacity : 0.7;
+    background-color : #0B6F54;
+    z-index: 200;
+    }
+    
+    .intitule{
+        color: #fff;
+        font-size: 20px;
+        background-color : #0B6F54;
+         opacity: 0.8;
+        z-index: 200;
+    }
+    
+    .sous_intitule{
+        color : #ADA7E3;
+        font-size: 18px;
+        font-weight: bold;
+        background-color : #0B6F54;
+         opacity: 0.8;
+        z-index: 200;
+    }
+    
