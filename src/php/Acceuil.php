@@ -24,23 +24,23 @@
 
 
 
-<!-- 		<div id="sommaire"> -->
-			<!-- 			  <h1 align="center"> PORTE FEUILLE DE COMPETENCES</h1> -->
-			<!-- 	 <ol type="I"> -->
-			<!-- 	<li> PPE 1ère année : Etude de l'intgration d'un nouvel outil -->
-			<!-- 			(cloud Computing à la M2L) -->
-			<!-- 	<li> Stage 1 ère année : Gestion d'incident (investigation, solution la mieux adaptée...) -->
-			<!-- 	<li> PPE 2 ème année : Gestion des places de parking à Rikola Entreprise -->
-			<!-- 	<li> Veille Technologique: LE CLOUD COMPUTING -->
-			<!-- 	</ol>  -->
-			<!-- 	<p> <b>PPE 1ère année :</b> Etude de l'intgration d'un nouvel outil -->
-			<!-- 			(cloud Computing à la M2L)</p> -->
-			<!-- 	<p> <b>Stage 1 ère année :</b> Gestion d'incident (investigation, solution la mieux adaptée...) -->
-			<!-- 	<p> <b>PPE 2 ème année :</b> Gestion des places de parking à Rikola Entreprise</p> -->
-			<!-- 	<p> <b>Veille Technologique:</b> LE CLOUD COMPUTING</p> -->
+		<!-- 		<div id="sommaire"> -->
+		<!-- 			  <h1 align="center"> PORTE FEUILLE DE COMPETENCES</h1> -->
+		<!-- 	 <ol type="I"> -->
+		<!-- 	<li> PPE 1ère année : Etude de l'intgration d'un nouvel outil -->
+		<!-- 			(cloud Computing à la M2L) -->
+		<!-- 	<li> Stage 1 ère année : Gestion d'incident (investigation, solution la mieux adaptée...) -->
+		<!-- 	<li> PPE 2 ème année : Gestion des places de parking à Rikola Entreprise -->
+		<!-- 	<li> Veille Technologique: LE CLOUD COMPUTING -->
+		<!-- 	</ol>  -->
+		<!-- 	<p> <b>PPE 1ère année :</b> Etude de l'intgration d'un nouvel outil -->
+		<!-- 			(cloud Computing à la M2L)</p> -->
+		<!-- 	<p> <b>Stage 1 ère année :</b> Gestion d'incident (investigation, solution la mieux adaptée...) -->
+		<!-- 	<p> <b>PPE 2 ème année :</b> Gestion des places de parking à Rikola Entreprise</p> -->
+		<!-- 	<p> <b>Veille Technologique:</b> LE CLOUD COMPUTING</p> -->
 
-<!-- 			<img src="../Pictures/portfolio.jpg" alt="logo portfolio" id="image"> -->
-<!-- 		</div> -->
+		<!-- 			<img src="../Pictures/portfolio.jpg" alt="logo portfolio" id="image"> -->
+		<!-- 		</div> -->
 
 		<div class="header text-titre">
 			<p>
@@ -77,26 +77,36 @@
 		<div class="navigation">
 			<h3>SOMMAIRE</h3>
 			<ol type="I">
-				<li><b>PPE OBJET:</b> Inscriptions sportives M2L <a href=""><input
-						id="readMore" type="button" name="ppe1" value="lire la suite"></a>
+				<li><b>PPE OBJET:</b> Inscriptions sportives M2L 
+				<a href="PPEOBJET.php">
+				<input id="readMore" type="button" name="ppe1" value="lire la suite">
+				</a>
 				
-				<li><b>PPE WEB :</b> Gestion des formations M2L <a href=""><input
-						id="readMore" type="button" name="ppe1" value="lire la suite"></a>
+				<li><b>PPE WEB :</b> Gestion des formations M2L 
+				<a href="PPEWEB.php">
+				<input id="readMore" type="button" name="ppe1" value="lire la suite">
+				</a>
 				
-				<li><b>Veille Technologique:</b> LE CLOUD COMPUTING<a href=""><input
-						id="readMore" type="button" name="ppe1" value="lire la suite"></a>
+				<li><b>Veille Technologique:</b> LE CLOUD COMPUTING
+				<a href=""> 
+				<input id="readMore" type="button" name="ppe1" value="lire la suite">
+				</a>
 				
-				<li><b>Stage 1 ère année :</b> Support informatique<a href=""><input id="readMore"
-						type="button" name="ppe1" value="lire la suite"></a>
+				<li><b>Stage 1 ère année :</b> Support informatique
+				<a href="">
+				<input id="readMore" type="button" name="ppe1" value="lire la suite">
+				</a>
+			
 			</ol>
 		</div>
 	</nav>
 
 
 	<div class="footer">
-		<a href="curriculumVitae.php"><span>Curriculum Vitae</span></a> <a
-			href=""><span>Cursus scolaire</span></a> <a href=""><span>Réseaux
-				sociaux</span></a> <a href=""><span>A Propos...</span></a>
+		<a href="curriculumVitae.php"><span>Curriculum Vitae</span></a> 
+		<a href=""><span>Cursus scolaire</span></a> 
+		<a href=""><span>Réseaux sociaux</span></a> 
+		<a href=""><span>A Propos...</span></a>
 	</div>
 </body>
 
